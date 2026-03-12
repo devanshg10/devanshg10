@@ -1,5 +1,27 @@
 # 💫 About Me:
-BCA Student (Data Science & Artificial Intelligence)<br>💡 Passionate about building innovative tech solutions using AI, Data Science, and Web Development<br>🚀 Always exploring new technologies and participating in hackathons & real-world projects<br> Languages & Tech Stack<br>💻 Programming Languages<br>Python • Java • JavaScript • SQL<br>🌐 Web Development<br>React.js • HTML5 • CSS3 • Node.js<br>📊 Data Science & Analytics<br>Pandas • NumPy • Matplotlib • Data Analysis<br>🗄️ Databases<br>PostgreSQL • NoSQL Basics<br>⚙️ Tools & Platforms<br>Git • GitHub • Linux • VS Code • IBM Cloud Basics<br>🎨 UI/UX & Design<br>Figma • Canva • Responsive Design • UI Animations • Modern Web UI
+BCA Student (Data Science & Artificial Intelligence)<br>
+💡 Passionate about building innovative tech solutions using AI, Data Science, and Web Development<br>
+🚀 Always exploring new technologies and participating in hackathons & real-world projects<br><br>
+
+🛠️ Languages & Tech Stack<br>
+
+💻 Programming Languages<br>
+Python • Java • JavaScript • SQL<br>
+
+🌐 Web Development<br>
+React.js • HTML5 • CSS3 • Node.js<br>
+
+📊 Data Science & Analytics<br>
+Pandas • NumPy • Matplotlib • Data Analysis<br>
+
+🗄️ Databases<br>
+PostgreSQL • NoSQL Basics<br>
+
+⚙️ Tools & Platforms<br>
+Git • GitHub • Linux • VS Code • IBM Cloud Basics<br>
+
+🎨 UI/UX & Design<br>
+Figma • Canva • Responsive Design • UI Animations • Modern Web UI
 
 
 ## 🌐 Socials:
