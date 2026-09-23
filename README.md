@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA Student in (Data Science & Artificial Intelligence)<br>
+
 
 💡 Passionate about building innovative tech solutions using AI, Data Science, and Web Development<br>
 🚀 Always exploring new technologies and participating in hackathons & real-world projects<br><br>
